@@ -103,7 +103,6 @@ Left EAR: 0.287
 ## 🧑‍💻 Author
 
 **Shantanu Tapole**  
-Student | AI/ML Enthusiast | Developer
 
 ---
 

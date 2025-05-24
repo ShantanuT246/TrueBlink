@@ -92,20 +92,7 @@ Left EAR: 0.287
 
 ---
 
-## 📚 References
-
-- [MediaPipe Face Mesh](https://google.github.io/mediapipe/solutions/face_mesh.html)
-- Soukupová, T., & Čech, J. (2016). *Real-time eye blink detection using facial landmarks.*
-- Jung et al. (2020). *DeepVision: Deepfakes Detection Using Eye Blinking Patterns*
-
----
-
 ## 🧑‍💻 Author
 
 **Shantanu Tapole**  
 
----
-
-## 🛡 License
-
-This project is open source and available under the [MIT License](LICENSE).
